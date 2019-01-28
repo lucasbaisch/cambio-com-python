@@ -30,7 +30,6 @@ cambio_ vef(url)
 ```
   Passando uma url, em string, de um arquivo JSON ou o valor None, é possível saber quantos Reais custa o Peso Venezuelano.
 ```sh
-```sh
 valor_btn(url)
 ```
   Passando uma url, em string, de um arquivo JSON ou o valor None, é possível saber quantos Reais custa o BitCoin.
